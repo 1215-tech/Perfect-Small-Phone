@@ -28,4 +28,4 @@ Coming soon!
   - **[Matte screen protector](https://www.aliexpress.com/item/1005001715008173.html?spm=a2g0o.order_list.order_list_main.34.17381802AMqiHq)** Any will do. **3$**
   - **[MagSafe powerbank](https://www.aliexpress.com/item/1005008708384313.html?spm=a2g0o.order_list.order_list_main.11.17381802AMqiHq)** Any will do. **32$**
 - **[ROM](https://wiki.lineageos.org/devices/beyond0lte/)**
-- **Total**: 150-170$ | **Total without the phone: 70$**
+- **Total**: 150-170$ | **Total without the phone:** 70$
